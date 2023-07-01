@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[https://drive.google.com/file/d/1U9Ii70Q5ftnE1bZhgWqVXWWUmXsOXPQ2/view?usp=sharing]
 
 ### Links
 
