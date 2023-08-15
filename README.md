@@ -1,6 +1,9 @@
-# Frontend Mentor - Tip calculator app solution
+### Links
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+- Live Site URL: [https://singular-mooncake-ba6730.netlify.app/]
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-7]
+
+## Tip calculator app
 
 ## Table of contents
 
@@ -9,7 +12,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -23,10 +25,6 @@ Users should be able to:
 
 [https://drive.google.com/file/d/1U9Ii70Q5ftnE1bZhgWqVXWWUmXsOXPQ2/view?usp=sharing]
 
-### Links
-
-- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-7]
-- Live Site URL: [https://singular-mooncake-ba6730.netlify.app/]
 
 ### Built with
 
@@ -40,7 +38,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@ArjunJayakrishnan](https://www.frontendmentor.io/profile/ArjunJayakrishnan)
-
-## Acknowledgments
-
-I thank frontend mentor for giving me this challenge.
